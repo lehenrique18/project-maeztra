@@ -649,6 +649,12 @@ header{
     
 }
 
+@media only screen and (min-width: 601px){
+    .close-btn{
+        top: 130px;
+    }
+}
+
 @media only screen and (max-width: 600px) {
     .beneficios-text{
         padding: 32px;
