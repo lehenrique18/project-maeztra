@@ -205,6 +205,10 @@ header{
     gap: 10px;
 }
 
+.marca .lista-beneficios{
+    padding: 0 !important;
+}
+
 
 
 .beneficios-text span{
