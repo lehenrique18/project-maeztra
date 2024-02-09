@@ -666,7 +666,10 @@ header{
     .container-beneficios{
         width: 90%;
     }
-
+    .vitrine section{
+        width: 90%;
+        margin: 0 50px;
+    }
 }
 
 @media only screen and (max-width: 600px) {
