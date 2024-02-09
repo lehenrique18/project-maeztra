@@ -655,7 +655,7 @@ header{
     }
 }
 
-@media only screen and (max-width: 1200px){
+@media only screen and (min-width: 1200px){
     .menu-item{
         max-width: 100%;
         width: 415px;
