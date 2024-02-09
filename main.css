@@ -201,7 +201,6 @@ header{
     background: #EFEFEF;
     font-family: 'Titillium Web', sans-serif;
     height: 40px;
-    width: 235px;
     padding: 4px 8px;
     gap: 10px;
 }
@@ -660,6 +659,10 @@ header{
         max-width: 100%;
         width: 415px;
     }
+    .container-beneficios{
+        width: 90%;
+    }
+
 }
 
 @media only screen and (max-width: 600px) {
